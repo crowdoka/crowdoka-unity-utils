@@ -1,0 +1,17 @@
+{
+  "name": "crowdoka.unity.utils",
+  "version": "0.0.1",
+  "displayName": "Crowdoka Unity Utils",
+  "description": "Utils for Unity by Crowdoka",
+  "keywords": [
+    "Crowdoka",
+    "Utils"
+  ],
+  "author": {
+    "name": "Crowdoka",
+    "email": "crowdoka@gmail.com",
+    "url": "https://github.com/crowdoka/crowdoka-unity-utils"
+  },
+  "type": "template",
+  "hideInEditor": false
+}

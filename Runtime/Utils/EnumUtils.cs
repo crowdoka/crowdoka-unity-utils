@@ -1,4 +1,4 @@
-﻿namespace Crowdoka.Utils.Utils
+﻿namespace Crowdoka.Utils.Runtime.Utils
 {
     using System;
     using System.Linq;
